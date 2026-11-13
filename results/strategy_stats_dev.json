@@ -1,0 +1,42 @@
+{
+  "run_at": "2026-11-13T18:39:24",
+  "model": "BAAI/bge-small-en-v1.5",
+  "dimensions": 384,
+  "metric": "cosine (exact)",
+  "sentence_transformers": "6.3.0",
+  "torch": "2.15.0",
+  "python": "3.13.13",
+  "strategies": {
+    "A": {
+      "chunks": 518,
+      "total_chars": 240395,
+      "total_tokens": 49615,
+      "chars_min": 69,
+      "chars_p25": 499,
+      "chars_median": 500,
+      "chars_p75": 500,
+      "chars_max": 500,
+      "chars_mean": 464.1,
+      "ingest_seconds": 3.6,
+      "cost_usd": 0,
+      "chunker": "fixed_size",
+      "size": 500,
+      "overlap": 50
+    },
+    "B": {
+      "chunks": 307,
+      "total_chars": 217994,
+      "total_tokens": 44177,
+      "chars_min": 29,
+      "chars_p25": 545,
+      "chars_median": 779,
+      "chars_p75": 910,
+      "chars_max": 1000,
+      "chars_mean": 710.1,
+      "ingest_seconds": 2.56,
+      "cost_usd": 0,
+      "chunker": "by_paragraph",
+      "max_size": 1000
+    }
+  }
+}

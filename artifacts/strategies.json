@@ -1,0 +1,25 @@
+{
+  "A": {
+    "chunker": "fixed_size",
+    "params": {
+      "size": 500,
+      "overlap": 50
+    },
+    "filter": false
+  },
+  "B": {
+    "chunker": "by_paragraph",
+    "params": {
+      "max_size": 1000
+    },
+    "filter": false
+  },
+  "C": {
+    "chunker": "by_paragraph",
+    "params": {
+      "max_size": 1000
+    },
+    "filter": true,
+    "store_strategy": "B"
+  }
+}
