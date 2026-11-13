@@ -88,7 +88,7 @@ class PgVectorStore:
         qv = _vec(query_vector)
         sql = (f"SELECT chunk_id, text, source, page, document_id, metadata, "
                f"embedding <=> %s::vector AS distance FROM {TABLE} "
-               f"WHERE {' AND '.join(where)} ORDER BY distance LIMIT %s")
+               f"WHERE {' AND '.join(where)} ORDER BY distance, chunk_id LIMIT %s")
         with self._conn() as conn:
             rows = conn.execute(sql, [qv, *params, top_k]).fetchall()
         return [{"chunk_id": r[0], "text": r[1], "source": r[2], "page": r[3],
