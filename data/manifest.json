@@ -7,10 +7,24 @@
   },
   "license_or_permission": {
     "attribution_line_found_in_pdf": "(Attribution: Copyright Rice University, OpenStax, under CC-BY 4.0 license)",
-    "full_license_text": "TODO: chép nguyên văn từ trang bản quyền của đúng bản PDF này"
+    "full_license_text": "©2026 Rice University. Textbook content produced by OpenStax is licensed under a Creative Commons \nAttribution Non-Commercial ShareAlike 4.0 International License (CC BY-NC-SA 4.0). Under this license, any \nuser of this textbook or the textbook contents herein can share, remix, and build upon the content for \nnoncommercial purposes only. Any adaptations must be shared under the same type of license. In any case of \nsharing the original or adapted material, whether in whole or in part, the user must provide proper attribution \nas follows: \n- \nIf you noncommercially redistribute this textbook in a digital format (including but not limited to PDF and \nHTML), then you must retain on every page the following attribution: \n“Access for free at openstax.org.” \n- \nIf you noncommercially redistribute this textbook in a print format, then you must include on every \nphysical page the following attribution: \n“Access for free at openstax.org.” \n- \nIf you noncommercially redistribute part of this textbook, then you must retain in every digital format \npage view (including but not limited to PDF and HTML) and on every physical printed page the following \nattribution: \n“Access for free at openstax.org.” \n- \nIf you use this textbook as a bibliographic reference, please include \nhttps://openstax.org/details/books/principles-management in your citation. \nFor questions regarding this licensing, please contact support@openstax.org. \n",
+    "verification_note": "Đã tải PDF đầy đủ từ OpenStax ngày 2026-11-14. Văn bản trích xuất bằng PyMuPDF của cả 80 trang trong file người dùng khớp chính xác với trang vật lý 375–454 của bản đầy đủ. Giấy phép toàn sách lấy từ trang bản quyền, không suy từ chú thích hình/bảng.",
+    "license_id": "CC-BY-NC-SA-4.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "legal_code_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en",
+    "full_license_text_scope": "Thông báo bản quyền và điều kiện ghi công nguyên văn tại trang vật lý 4 của PDF đầy đủ; không phải toàn bộ Creative Commons Legal Code.",
+    "copyright_page": 4,
+    "copyright_year": 2026,
+    "original_publication_year": 2019,
+    "digital_isbn": "978-0-9986257-7-5",
+    "verified_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles-management_-_WEB.pdf",
+    "verified_pdf_sha256": "59ea3ea149d631f57c26279d5ac71f588121ebc56c1a25eb6c76f011c9765b6d",
+    "attribution": "Principles of Management — OpenStax, Rice University. Access for free at openstax.org. https://openstax.org/details/books/principles-management. CC BY-NC-SA 4.0. Trích chương 13–14; văn bản được làm sạch và chia đoạn cho bài tập.",
+    "ai_permission_note": "Trang web OpenStax hiện ghi yêu cầu có chấp thuận bằng văn bản khi đưa nội dung vào LLM/generative AI. Việc xác minh giấy phép sách không xác nhận đã có chấp thuận riêng này.",
+    "ai_permission_source": "https://openstax.org/books/principles-management/pages/1-introduction"
   },
-  "accessed_at": "TODO: ngày bạn tải file (YYYY-MM-DD)",
-  "snapshot_or_version": "TODO: ghi version/ngày xuất bản nếu PDF có",
+  "accessed_at": "2026-11-14",
+  "snapshot_or_version": "PDF trích 80 trang, trang in 361–440; SHA-256: 70b60de36b263b81b3584906635f1758069a00123e699e4884d60f5bde56636a; PDF 1.7, Producer iLovePDF, ModDate 2026-11-13T10:04:23Z. ModDate là ngày sửa file, không phải ngày xuất bản; đã đối chiếu bản đầy đủ OpenStax 605 trang, copyright 2026, xuất bản lần đầu 2019; 80/80 trang trích khớp văn bản.",
   "physical_pages": 80,
   "page_numbering": "page = trang trong PDF 80 trang (bắt đầu từ 1); printed_page = page + 360",
   "counted_page_ranges": [
@@ -104,5 +118,6 @@
   "sha256": {
     "pdf": "70b60de36b263b81b3584906635f1758069a00123e699e4884d60f5bde56636a",
     "sections_jsonl": "650ad4f08c2ad0c7ba438059824c0866612a0a21a6ece8001be7f207934009dd"
-  }
+  },
+  "accessed_at_note": "Ngày truy cập và đối chiếu bản PDF trong lần kiểm tra này (Asia/Saigon); chưa xác nhận ngày người dùng tải ban đầu. Nếu rubric yêu cầu ngày tải ban đầu, cần thay bằng ngày thực tế."
 }
