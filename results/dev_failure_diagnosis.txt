@@ -1,0 +1,14 @@
+q02 A: hạng chunk chứa đủ evidence = None | hạng chunk đúng trang đầu tiên = 1
+q03 A: hạng chunk chứa đủ evidence = 5 | hạng chunk đúng trang đầu tiên = 2
+q06 A: hạng chunk chứa đủ evidence = 8 | hạng chunk đúng trang đầu tiên = 8
+q06 B: hạng chunk chứa đủ evidence = 12 | hạng chunk đúng trang đầu tiên = 7
+q07 A: hạng chunk chứa đủ evidence = None | hạng chunk đúng trang đầu tiên = 3
+q07 B: hạng chunk chứa đủ evidence = 6 | hạng chunk đúng trang đầu tiên = 6
+q08 A: hạng chunk chứa đủ evidence = None | hạng chunk đúng trang đầu tiên = 3
+q08 B: hạng chunk chứa đủ evidence = None | hạng chunk đúng trang đầu tiên = 1
+q11 A: hạng chunk chứa đủ evidence = None | hạng chunk đúng trang đầu tiên = 1
+q12 A: hạng chunk chứa đủ evidence = None | hạng chunk đúng trang đầu tiên = 1
+q13 A: hạng chunk chứa đủ evidence = None | hạng chunk đúng trang đầu tiên = 2
+q15 A: hạng chunk chứa đủ evidence = 20 | hạng chunk đúng trang đầu tiên = 4
+q15 B: hạng chunk chứa đủ evidence = 11 | hạng chunk đúng trang đầu tiên = 3
+q15 C: hạng chunk chứa đủ evidence = 8 | hạng chunk đúng trang đầu tiên = 2

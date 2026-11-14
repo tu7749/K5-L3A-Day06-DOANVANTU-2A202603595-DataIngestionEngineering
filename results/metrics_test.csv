@@ -1,0 +1,4 @@
+strategy,split,n,hit@1,hit@3,page_hit@3,filter_ok/filter_n
+A,test,5,3/5,5/5,5/5,1/2
+B,test,5,2/5,5/5,5/5,1/2
+C,test,5,2/5,5/5,5/5,2/2
